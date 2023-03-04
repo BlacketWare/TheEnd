@@ -1,3 +1,7 @@
+# obfuscator
 .vscode
-/unobfuscated
 /utils
+
+# unobfuscated code files
+/unobfuscated
+/bbunob
