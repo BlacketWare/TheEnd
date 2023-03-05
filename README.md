@@ -2,26 +2,29 @@
   <img src="https://user-images.githubusercontent.com/101288516/217323368-c526a242-fab7-48c7-84f3-64a316f915b8.png">
   <h1>BlacketWare</h1>
   <h3>The Blacket Hack.</h3>
-  <h3><a href="https://discord.gg/BJCms66bcu">Discord Community/Support</a></h3>
-  <p> yes, Death#5368 owns BlacketWare and makes these. yes, death is villainsrule.<br>how don't people realize that?<br>anyway thank me on dc if you like these :D</p>
+  <h3><a href="https://discord.gg/sexploiters">Discord Community/Support</a></h3>
+  <p>ily <b>@intertransfer</b></p>
 </div>
 
 <details>
 <summary align="center"><h2>Todo</h2></summary>
 
 We have nothing planned...<br>
-Join the [Discord](https://discord.gg/BJCms66bcu) and give us ideas :)
+Join the [Discord](https://discord.gg/sexploiters) and give us ideas :)
 
 </details>
 <details>
 <summary align="center"><h2>List of Cheats</h2></summary>
 
+### [Bazaar](bazaar/)
+ * [Filter By User](bazaar/filterByUser.js) | View a user's Bazaar listings by name.<br>
+
 ### [Blooks](blooks/)
- * [Sell All Blooks](blooks/sellAllBlooks.js) | Sell all of your Blooks.<br>
  * [Sell Cheap Dupes](blooks/sellCheapDupes.js) | Sell your Uncommon/Rare/Epic duplicates.<br>
  * [Sell Dupe Blooks](blooks/sellDupeBlooks.js) | Sell your duplicate Blooks.<br>
  * [Spoof All Blooks](blooks/spoofAllBlooks.js) | Make it appear as if you have all Blooks.<br>
  * [Spoof Custom Blook](blooks/spoofCustomBlook.js) | Create & spoof a custom Blook.<br>
+ * [View All Blooks](blooks/viewAllBlooks.js) | View all of the Blooks.<br>
  * [View Player Blooks](blooks/viewPlayerBlooks.js) | View a specific player's Blooks.<br>
 
 ### [Chat/Trade](chat-trade/)
