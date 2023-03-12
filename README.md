@@ -34,6 +34,8 @@ Join the [Discord](https://discord.gg/sexploiters) and give us ideas :)
     * Click the Escape (esc) key to trigger the menu.
  * [Download Chat](chat-trade/downloadChat.js) | Download a copy of the chat (everything you see from scrolling up).<br>
  * [Message Sniper](chat-trade/messageSniper.js) | Show messages deleted by Admins in the console.<br>
+ * [Message Sniper](chat-trade/messageSniper.js) | Show the rewards you get from chatting.<br>
+    * These rewards __do__ still occur, yet you don't know it. This changes that.
 
 ### [Global](global/)
  * [Spoof Admin](global/spoofAdmin.js) | Make it appear as if you have admin permissions.<br>
