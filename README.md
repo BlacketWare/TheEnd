@@ -2,15 +2,14 @@
   <img src="https://user-images.githubusercontent.com/101288516/217323368-c526a242-fab7-48c7-84f3-64a316f915b8.png">
   <h1>BlacketWare</h1>
   <h3>The Blacket Hack.</h3>
-  <h3><a href="https://discord.gg/sexploiters">Discord Community/Support</a></h3>
-  <p>ily <b>@intertransfer</b></p>
+  <h3><a href="https://discord.gg/5dR3ca38tB">Discord Community/Support</a></h3>
 </div>
 
 <details>
 <summary align="center"><h2>Todo</h2></summary>
 
 We have nothing planned...<br>
-Join the [Discord](https://discord.gg/sexploiters) and give us ideas :)
+Join the [Discord](https://discord.gg/5dR3ca38tB) and give us ideas :)
 
 </details>
 <details>
@@ -30,14 +29,12 @@ Join the [Discord](https://discord.gg/sexploiters) and give us ideas :)
 ### [Chat/Trade](chat-trade/)
  * [Blacket Emojis](chat-trade/blacketEmojis.js) | Turn your messages into Blacket emojis.
     * Occurs only when you add `--blacket` to the end of the message.<br>
- * [Block Player](chat-trade/blockPlayer.js) | Block players!
-    * Click the Escape (esc) key to trigger the menu.
- * [Download Chat](chat-trade/downloadChat.js) | Download a copy of the chat (everything you see from scrolling up).<br>
- * [Message Sniper](chat-trade/messageSniper.js) | Show messages deleted by Admins in the console.<br>
- * [Message Sniper](chat-trade/messageSniper.js) | Show the rewards you get from chatting.<br>
+ * [Show Chat Rewards](chat-trade/showChatRewards.js) | Show the rewards you get from chatting.<br>
     * These rewards __do__ still occur, yet you don't know it. This changes that.
 
 ### [Global](global/)
+ * [Block Player](chat-trade/blockPlayer.js) | Block players!
+    * Click the Escape (esc) key to trigger the menu.
  * [Spoof Admin](global/spoofAdmin.js) | Make it appear as if you have admin permissions.<br>
 
 ### [Inventory](inventory/)
