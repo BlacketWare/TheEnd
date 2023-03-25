@@ -31,10 +31,14 @@ Join the [Discord](https://discord.gg/5dR3ca38tB) and give us ideas :)
     * Occurs only when you add `--blacket` to the end of the message.<br>
  * [Show Chat Rewards](chat-trade/showChatRewards.js) | Show the rewards you get from chatting.<br>
     * These rewards __do__ still occur, yet you don't know it. This changes that.
+ * [Trade Whitelist](chat-trade/tradeWhitelist.js) | Only allow specific users to trade you.<br>
+    * Click the Escape (esc) key to trigger the menu.
+    * Cannot be used with Block Player.
 
 ### [Global](global/)
  * [Block Player](chat-trade/blockPlayer.js) | Block players!
     * Click the Escape (esc) key to trigger the menu.
+    * Cannot be used with Trade Whitelist.
  * [Spoof Admin](global/spoofAdmin.js) | Make it appear as if you have admin permissions.<br>
 
 ### [Inventory](inventory/)
