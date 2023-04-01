@@ -4,3 +4,6 @@
 
 # unobfuscated code files
 /unobfuscated
+
+# mac shit
+*.DS_STORE
