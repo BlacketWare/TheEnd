@@ -3,7 +3,7 @@
 
   let seller = prompt('Enter a name to filter...');
 
-  blacket.requests.get(`https://blacket.org/worker/user/${seller}`, (data) => {
+  blacket.requests.get(`/worker/user/${seller}`, (data) => {
     if (data.error) return alert('That\'s not a Blacket player.');
     if (data.user.id === blacket.user.id) return alert('For your own Bazaar listings, just click the Listings button.');
     
